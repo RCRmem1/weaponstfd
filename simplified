@@ -5,46 +5,25 @@
     "weapon_type": "Handgun",
     "weapon_tier": "Standard",
     "weapon_rnds_type": "General Rounds",
-    "image_url": "https://open.api.nexon.com/static/tfd/img/5121f653612028a206f3131f81495b2f"
+    "image_url": "https://open.api.nexon.com/static/tfd/img/5121f653612028a206f3131f81495b2f",
+    "weapon_slot_id": "0"
   },
-  "211012001": {
-    "weapon_id": {},
-    "weapon_name": {},
-    "weapon_type": {},
-    "weapon_tier": {},
-    "weapon_rnds_type": {},
-    "image_url": {}
+    "211012001": {
+    "weapon_id": "211012001",
+    "weapon_name": "Millenium Frost",
+    "weapon_type": "Handgun",
+    "weapon_tier": "Rare",
+    "weapon_rnds_type": "General Rounds",
+    "image_url": "https://open.api.nexon.com/static/tfd/img/64e7cd6ee5a9ce572f89a510ab446be4"
+    "weapon_slot_id": "1"
   },
-  "211012002": {
-    "weapon_id": {},
-    "weapon_name": {},
-    "weapon_type": {},
-    "weapon_tier": {},
-    "weapon_rnds_type": {},
-    "image_url": {}
+    "211012001": {
+    "weapon_id": "211012002",
+    "weapon_name": "Red Wolf",
+    "weapon_type": "Handgun",
+    "weapon_tier": "Rare",
+    "weapon_rnds_type": "General Rounds",
+    "image_url": "https://open.api.nexon.com/static/tfd/img/5541aa5bc69828750230c0e21de0008f"
+    "weapon_slot_id": "2"
   },
-  "211012003": {
-    "weapon_id": {},
-    "weapon_name": {},
-    "weapon_type": {},
-    "weapon_tier": {},
-    "weapon_rnds_type": {},
-    "image_url": {}
-  },
-  "211012004": {
-    "weapon_id": {},
-    "weapon_name": {},
-    "weapon_type": {},
-    "weapon_tier": {},
-    "weapon_rnds_type": {},
-    "image_url": {}
-  },
-  "211013001": {
-    "weapon_id": {},
-    "weapon_name": {},
-    "weapon_type": {},
-    "weapon_tier": {},
-    "weapon_rnds_type": {},
-    "image_url": {}
-  }
 }
