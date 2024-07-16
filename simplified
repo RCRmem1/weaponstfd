@@ -1,11 +1,11 @@
 {
   "211011001": {
-    "weapon_id": {"211011001"},
-    "weapon_name": {"Hungry Hound"},
-    "weapon_type": {"Handgun"},
-    "weapon_tier": {"Standard"},
-    "weapon_rnds_type": {"General Rounds"},
-    "image_url": {"https://open.api.nexon.com/static/tfd/img/5121f653612028a206f3131f81495b2f"}
+    "weapon_id": "211011001",
+    "weapon_name": "Hungry Hound",
+    "weapon_type": "Handgun",
+    "weapon_tier": "Standard",
+    "weapon_rnds_type": "General Rounds",
+    "image_url": "https://open.api.nexon.com/static/tfd/img/5121f653612028a206f3131f81495b2f",
   },
   "211012001": {
     "weapon_id": {},
