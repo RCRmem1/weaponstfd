@@ -1,4 +1,3 @@
-{
   {
   "211011001": {
     "weapon_id": "211011001",
@@ -15,7 +14,7 @@
     "weapon_type": "Handgun",
     "weapon_tier": "Rare",
     "weapon_rnds_type": "General Rounds",
-    "image_url": "https://open.api.nexon.com/static/tfd/img/64e7cd6ee5a9ce572f89a510ab446be4"
+    "image_url": "https://open.api.nexon.com/static/tfd/img/64e7cd6ee5a9ce572f89a510ab446be4",
     "weapon_slot_id": "1"
   },
     "211012001": {
@@ -24,8 +23,7 @@
     "weapon_type": "Handgun",
     "weapon_tier": "Rare",
     "weapon_rnds_type": "General Rounds",
-    "image_url": "https://open.api.nexon.com/static/tfd/img/5541aa5bc69828750230c0e21de0008f"
-    "weapon_slot_id": "2"
-  },
-}
+    "image_url": "https://open.api.nexon.com/static/tfd/img/5541aa5bc69828750230c0e21de0008f",
+    "weapon_slot_id": "2"}
+  
 }
