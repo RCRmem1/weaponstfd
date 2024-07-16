@@ -1,4 +1,5 @@
 {
+  {
   "211011001": {
     "weapon_id": "211011001",
     "weapon_name": "Hungry Hound",
@@ -26,4 +27,5 @@
     "image_url": "https://open.api.nexon.com/static/tfd/img/5541aa5bc69828750230c0e21de0008f"
     "weapon_slot_id": "2"
   },
+}
 }
